@@ -1,0 +1,1 @@
+Penerapan data mining untuk mendeteksi berita palsu dibidang kesehatan menggunakan perceptron di jupyter notebook dengan metode Rule-Based Labeling dengan Snorkel
